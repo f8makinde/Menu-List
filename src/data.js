@@ -71,29 +71,6 @@ const menu = [
     img: './images/item-9.jpeg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
-  {
-    id: 10,
-    title: 'quarantine buddy',
-    category: 'dinner',
-    price: 16.99,
-    img: './images/item-9.jpeg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
-  },
-  {
-    id: 11,
-    title: 'quarantine buddy',
-    category: 'night',
-    price: 16.99,
-    img: './images/item-9.jpeg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
-  },
-  {
-    id: 12,
-    title: 'quarantine buddy',
-    category: 'dinner',
-    price: 16.99,
-    img: './images/item-9.jpeg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
-  },
+  
 ];
 export default menu;
